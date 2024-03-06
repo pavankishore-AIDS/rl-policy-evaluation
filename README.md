@@ -164,7 +164,7 @@ else:
 ## OUTPUT:
 # policy 1:
 policy:
- ![3](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/12a55783-fd3d-4101-a79a-5753e190fe4c)
+![3](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/12a55783-fd3d-4101-a79a-5753e190fe4c)
 
 policy evluation:
 ![7](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/7d645589-c817-4ee0-abdc-d5bbe6b3a94f)
@@ -178,10 +178,13 @@ policy comparison:
 # policy 2:
 policy:
 ![4](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/ce37b296-c54d-4dd4-9358-43d735c2637a)
+
 policy evluation:
 ![8](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/525f256d-d2f2-48c2-83d8-113818fa7c12)
+
 state value function:
 ![6](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/34dcbd79-973f-4a61-b672-e89a38e224a0)
+
 policy comparison:
 ![9](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/6a4d942b-3ef9-4504-81a0-1666daedba74)
 
