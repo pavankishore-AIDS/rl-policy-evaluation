@@ -175,6 +175,15 @@ state value function:
 policy comparison:
 ![9](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/1087d679-41f6-4879-a17a-818cb19405df)
 
+# policy 2:
+policy:
+![4](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/ce37b296-c54d-4dd4-9358-43d735c2637a)
+policy evluation:
+![8](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/525f256d-d2f2-48c2-83d8-113818fa7c12)
+state value function:
+![6](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/34dcbd79-973f-4a61-b672-e89a38e224a0)
+policy comparison:
+![9](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/6a4d942b-3ef9-4504-81a0-1666daedba74)
 
 ## RESULT:
 Thus, a Python program is developed to evaluate the given policy.
