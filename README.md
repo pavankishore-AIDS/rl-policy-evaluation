@@ -91,7 +91,7 @@ else:
 
 
 ### CONCLUSION:
-![Uploading o6.png…]()
+![o6](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/1d962b47-780a-4e65-adf6-744ca91191f6)
 
 
 ## RESULT:
