@@ -75,17 +75,20 @@ else:
 
 ## OUTPUT:
 ### POLICY 1
-![](o1.png)
+![o1 (1)](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/187d0a5f-5046-402c-8803-bb91571d2459)
 
-![](o2.png)
+
+![o2 (1)](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/6f8e307a-a337-42e7-bea6-e07bae78ad2c)
+
 
 ### POLICY 2
-![](o3.png)
+![o3 (1)](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/1dbcd3ce-7e9f-4609-9274-f989fa13182b)
 
-![](o4.png)
+![o4](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/e13b71a8-96c9-4e38-967c-352f90dfc88e)
 
 ### COMPARISON:
-![](o5.png)
+![o5](https://github.com/pavankishore-AIDS/rl-policy-evaluation/assets/94154941/4c3cbbba-2460-4ed4-82f9-b92b7a6a9da1)
+
 
 ### CONCLUSION:
 ![](o6.png)
