@@ -91,7 +91,8 @@ else:
 
 
 ### CONCLUSION:
-![](o6.png)
+![Uploading o6.png…]()
+
 
 ## RESULT:
 Thus, a Python program is developed to evaluate the given policy.
